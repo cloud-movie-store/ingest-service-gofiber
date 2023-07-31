@@ -1,2 +1,2 @@
-# ingest-service-flask
-Ingest service written in flask
+# ingest-service-gofiber
+Ingest service written in Fiber
